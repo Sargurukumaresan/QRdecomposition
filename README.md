@@ -54,7 +54,7 @@ QR_Decomposition(a)
 ## Output
 
 ![1](./987.png)
-
+.
 
 
 ## Result
