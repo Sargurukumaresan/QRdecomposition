@@ -53,7 +53,8 @@ QR_Decomposition(a)
 
 ## Output
 
-![1](https://user-images.githubusercontent.com/118704873/214103688-0ae95f5b-8ca3-4119-b1d5-d977aa676135.png)
+![1](./987.png)
+
 
 
 ## Result
